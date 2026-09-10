@@ -1,0 +1,5 @@
+Format specifier - are special tokens that begin with a % symbol,
+followed by a character that specified the data type
+and optional modifier like width , precision, and flags
+they control how data is displayed and interpreted
+

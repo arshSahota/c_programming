@@ -1,0 +1,8 @@
+variable = a reusable container for a value
+
+int = whole numbers = 4 bytes in modern systems
+float = singe precision decimal numbers = 4 bytes in modern systems
+double = double precision = 8 bytes in modern systems
+char = single character = 1 byte
+char [] = array of characters = size varies because the strings can vary in length
+bool = true or false (1 byte, requires <stdbool.h>)
