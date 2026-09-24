@@ -12,3 +12,12 @@ int main(){
   }
   return 0;
 }
+
+
+//function pointers
+
+int sum(int a, intb){
+  return a+b;
+}
+
+int *(func_ptr) (int, int);
