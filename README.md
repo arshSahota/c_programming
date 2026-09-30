@@ -1,2 +1,1 @@
 ﻿# c_programming
-default read me file
